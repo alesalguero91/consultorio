@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.consultorioBack.ConsultorioBackApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.95 s - in com.example.consultorioBack.ConsultorioBackApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.565 s - in com.example.consultorioBack.ConsultorioBackApplicationTests
